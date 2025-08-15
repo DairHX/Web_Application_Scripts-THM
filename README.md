@@ -41,7 +41,7 @@ Web_Application_Scripts-THM/
 
 👤 Author
 
-OSCP-Certified Pentester | Python for Hackers Enthusiast
+OSCP-Certified Pentester | CEH | Road to OSWE
 ## 👤 Author
 
 **Dair Hariri**
