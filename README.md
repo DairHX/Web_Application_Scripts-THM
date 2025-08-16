@@ -1,6 +1,6 @@
 # 🐍 Web Application Pentesting Automation with Python (TryHackMe)
 
-Welcome to my repository where I script most task in the **Web Application Penetration Testing** path on [TryHackMe](https://tryhackme.com/).
+Welcome to my repository where I script most tasks in the **Web Application Penetration Testing** path on [TryHackMe](https://tryhackme.com/).
 
 This is a personal and educational initiative to convert manual pentesting steps into **Python scripts** — helping learners grasp both the **theory** and **automation** of web exploits.
 
