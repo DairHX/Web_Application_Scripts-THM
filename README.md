@@ -20,7 +20,7 @@ This is a personal and educational initiative to convert manual pentesting steps
 | Task | Script | Description |
 |------|--------|-------------|
 | Task 5 | [`Basic_JWT_Generator.py`](./JWT/Basic_JWT_Generator.py) | Basic JWT token generator |
-| Task 5 | [`Authenticated_JWT_Request.py`](./JWT/Authenticated_JWT_Request.py) | JWT Token Generator + Request |
+| Task 5 | [`Authenticated_JWT_Request.py`](./JWT/Authenticated_JWT_Request.py) | JWT Token Generator + Client Request |
 | Task 5 | [`Jwt_Public_key_Hmac_Bypass.py`](./JWT/Jwt_Public_key_Hmac_Bypass.py) | JWT Token Generator + Signing with HMAC256 For Algorithm Confusion |
 
 More scripts and folders coming soon...
