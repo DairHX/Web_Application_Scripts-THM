@@ -6,7 +6,7 @@ This is a personal and educational initiative to convert manual pentesting steps
 
 ---
 
-## 🔐 Authentication Module Scripts
+## 🔐 1/ Authentication Module Scripts
 
 | Task | Script | Description |
 |------|--------|-------------|
@@ -15,7 +15,7 @@ This is a personal and educational initiative to convert manual pentesting steps
 | Task 5 | [`Task5_Http_Basic_Authentication.py`](./Authentication/Task5_Http_Basic_Authentication.py) | Handle HTTP Basic Authentication attacks |
 
 
-## 🔐 Authentication Module Scripts
+## 🔐 2/ JWT Security
 
 | Task | Script | Description |
 |------|--------|-------------|
