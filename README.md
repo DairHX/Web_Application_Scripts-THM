@@ -21,9 +21,11 @@ This is a personal and educational initiative to convert manual pentesting steps
 | Task | Script | Description |
 |------|--------|-------------|
 | Task 5 | [`Basic_JWT_Generator.py`](./JWT/Basic_JWT_Generator.py) | Basic JWT token generator |
-| Task 5 Example 5 | [`Jwt_Public_key_Hmac_Bypass.py`](./JWT/Jwt_Public_key_Hmac_Bypass.py) | JWT Token Generator + Signing with HMAC256 For Algorithm Confusion |
-| Task x | [`Jwt_HS256_Client.py`](./JWT/Jwt_HS256_Client.py) | JWT Token Generator + Client Request |
-| Task x | [`Jwt_HS256_server.py`](./JWT/Jwt_HS256_server.py) | JWT python Server |
+| Task 5 | [`Jwt_Public_key_Hmac_Bypass.py`](./JWT/Jwt_Public_key_Hmac_Bypass.py) | JWT Token Generator + Signing with HMAC256 For Algorithm Confusion EXAMPLE: 5|
+| Task x | [`JWT_HS256_Client.py`](./JWT/JWT_HS256_Client.py) | JWT Token Generator for HS256 and Client Request |
+| Task x | [`JWT_HS256_server.py`](./JWT/JWT_HS256_Server.py) | JWT python Server For HS256 |
+| Task x | [`JWT_HS256_server.py`](./JWT/Jwt_RS256_Server.py) | JWT Token Generator for RS256 and Client Request |
+| Task x | [`JWT_HS256_server.py`](./JWT/Jwt_RS256_Server.py) | JWT python Server For RS256 |
 
 
 More scripts and folders coming soon...
