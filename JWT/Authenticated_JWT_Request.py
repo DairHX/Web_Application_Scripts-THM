@@ -27,7 +27,7 @@ custom_headers = {
 # Encode JWT (returns string in PyJWT v2+)
 token = jwt.encode(payload, SECRET_KEY, algorithm=ALGORITHM, headers=custom_headers)
 
-print("🔐 JWT Token:")
+print("JWT Token:")
 print(token)
 print()
 
