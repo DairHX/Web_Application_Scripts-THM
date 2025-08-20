@@ -1,4 +1,4 @@
-# This Script will Help you Solv the example 5 smoothly, it's very important to understand each part so all the explanation are included
+# This Script will Help you Solve the example 5 smoothly, it's very important to understand each part so all the explanation are included
 
 import base64
 import hmac
