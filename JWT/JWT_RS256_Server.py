@@ -24,7 +24,7 @@ def protected():
     try:
         payload = jwt.decode(
             token,
-            PUBLIC_KEY,  # 🔐 Use public key for RS256
+            PUBLIC_KEY,  # Use public key for RS256
             algorithms=[ALGORITHM],
             issuer=EXPECTED_ISSUER,
             audience=EXPECTED_AUDIENCE,
