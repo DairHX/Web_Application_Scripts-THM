@@ -1,3 +1,4 @@
+# The goal of this code is to show what is hapenning server side to better understand the authentication mechanism
 from flask import Flask, request, jsonify
 import jwt
 from jwt import ExpiredSignatureError, InvalidTokenError
